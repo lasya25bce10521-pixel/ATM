@@ -90,8 +90,8 @@ Withdraw money (with sufficient balance)
 Exit and login again to verify updated balance
 > Use sample test credentials if included in the code, for example:
 >
-> <img width="1069" height="756" alt="vityarth-adMB25nLzcFw" src="https://github.com/user-attachments/assets/9e109b53-bb90-421f-85e1-7458a392a7ad" />
-<img width="1920" height="1080" alt="atm 2" src="https://github.com/user-attachments/assets/e8110ae8-38ac-4d35-a1cc-7d23d5e57c72" />
+><img width="1920" height="1080" alt="atm 1" src="https://github.com/user-attachments/assets/58dbeff4-f580-4e15-b009-6d596ace4511" />
+<img width="1920" height="1080" alt="atm 2" src="https://github.com/user-attachments/assets/d01bfcda-d2b4-4164-9bc8-d3750a73457c" />
 
 
 
